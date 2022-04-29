@@ -1,7 +1,16 @@
 # Election_Analysis
+
 ## Overview of Election Audit:
+The purpose of the Election Audit was to:
+* Calculate the total number of votes cast
+* Total number of votes for each candidate
+* Percentage of votes for each candidate
+* Winner based on popular vote
+
+We used Python to automate the process and the code will be used to audit other congressional and local elections. 
 
 ## Election-Audit Results: 
+Below is a snapshot of the summary of election results. 
 
 * Bullet list How many votes were cast in this congressional election?
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
