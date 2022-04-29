@@ -1,11 +1,11 @@
 # Election_Analysis
 
 ## Overview of Election Audit:
-The purpose of the Election Audit was to:
-* Calculate the total number of votes cast
-* Total number of votes for each candidate
+The purpose of the Election Audit was to calculate:
+* total number of votes cast
+* total number of votes for each candidate
 * Percentage of votes for each candidate
-* Winner based on popular vote
+* Generate a vote count report to determine the winner based on popular vote
 
 We used Python to automate the process and the code will be used to audit other congressional and local elections. 
 
@@ -34,5 +34,6 @@ Below is a snapshot of the summary of election results.
     Winning Vote Count: 272,892
     Winning Percentage: 73.8%
     
-
 ## Election-Audit Summary: 
+The script can be modified to use for other senatorial and local elections. 
+The current audit provides breakdown of county votes. We can modify the script to determine the voting results of each candidate in eac county. 
