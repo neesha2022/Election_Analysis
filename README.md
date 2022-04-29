@@ -11,6 +11,7 @@ We used Python to automate the process and the code will be used to audit other 
 
 ## Election-Audit Results: 
 Below is a snapshot of the summary of election results. 
+![My image](https://github.com/neesha2022/Election_Analysis/blob/main/Resources/Election%20Analysis%20Results.png)
 
 ### How many votes were cast in this congressional election? 
     369,711
